@@ -1,0 +1,11 @@
+
+[
+  {
+    "id": "upd",
+    "imageUrl": "https://cdn.wolvesville.com/avatarItems/clothes-1.store.png",
+    "type": "SHIRT",
+    "rarity": "COMMON",
+    "costInGold": 25
+  },
+  ...
+]
